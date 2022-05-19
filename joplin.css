@@ -1,5 +1,8 @@
 /* For styling the rendered Markdown */
 
+* {
+    margin: 0 !important;
+}
 p,ul,li {
     margin: 0 !important;
 }
