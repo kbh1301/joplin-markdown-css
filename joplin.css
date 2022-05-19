@@ -5,11 +5,14 @@ blockquote {
 }
 
 .details-box {
-    background-color: #b3d9ff;
+    overflow: hidden;
     border-radius: 20px;
-    padding: 20px;
     box-shadow: 0 0 10px;
     margin: 10px 0;
+    margin: 20px;
+}
+.details-box * {
+    padding: 0 10px;
 }
 
 .h1a {
@@ -24,3 +27,9 @@ blockquote {
     font-size: 1.17em;
     font-weight: bold;
 }
+
+.clr1 { background-color: #a8e6cf; }
+.clr2 { background-color: #dcedc1; }
+.clr3 { background-color: #ffd3b6; }
+.clr4 { background-color: #ffaaa5; }
+.clr5 { background-color: #ff8b94; }
