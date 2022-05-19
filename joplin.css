@@ -1,6 +1,6 @@
 /* For styling the rendered Markdown */
 
-* {
+rendered-md > * {
     padding: 0 !important;
 }
 p,ul,li {
