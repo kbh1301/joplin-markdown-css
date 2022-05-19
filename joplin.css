@@ -1,4 +1,10 @@
 /* For styling the rendered Markdown */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
 blockquote {
     opacity: 1 !important;
     border: none;
