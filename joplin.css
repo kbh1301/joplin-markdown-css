@@ -1,7 +1,7 @@
 /* For styling the rendered Markdown */
 
 #rendered-md blockquote {
-    opacity: 1 !important;
+	opacity: 1 !important;
 }
 	
 #rendered-md .details-box-inner ~ * {
@@ -12,13 +12,12 @@
 	margin: 20px !important;
 }
 #rendered-md .details-box {
-    overflow: hidden;
+	overflow: hidden;
 	border: 4px solid lightgray;
-    border-radius: 20px;
-/*     box-shadow: 0 0 10px; */
+	border-radius: 20px;
 }
 #rendered-md .details-box ul {
-    margin-left: 1.8rem !important;
+	margin-left: 1.8rem !important;
 }
 #rendered-md .details-box summary {
 	background-color: lightgray;
@@ -27,16 +26,16 @@
 }
 
 .h1a {
-    font-size: 2em;
-    font-weight: bold;
+	font-size: 2em;
+	font-weight: bold;
 }
 .h2a {
-    font-size: 1.5em;
-    font-weight: bold;
+	font-size: 1.5em;
+	font-weight: bold;
 }
 .h3a {
-    font-size: 1.17em;
-    font-weight: bold;
+	font-size: 1.17em;
+	font-weight: bold;
 }
 
 .clr1 { border-color: #a8e6cf !important; }
