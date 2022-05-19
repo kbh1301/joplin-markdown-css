@@ -1,7 +1,7 @@
 /* For styling the rendered Markdown */
 
 * {
-    margin: 0 !important;
+    padding: 0 !important;
 }
 p,ul,li {
     margin: 0 !important;
@@ -15,6 +15,9 @@ blockquote {
     border: none;
 }
 
+.details-box * {
+    padding: 0 10px !important;
+}
 .details-box {
     overflow: hidden;
     border-radius: 20px;
@@ -22,9 +25,6 @@ blockquote {
     margin: 10px 0;
     margin: 20px;
     padding: 0 !important;
-}
-.details-box * {
-    padding: 0 10px;
 }
 
 .h1a {
